@@ -1,0 +1,29 @@
+input{
+	padding:10px;
+	margin:10px;
+	
+}
+
+
+body{
+
+	
+	 background-image:url("../../images/26943097_2033218856696064_1266286399_n.png");
+	/* background-color:pink */
+		/* background-repeat:repeat-y; */
+		 background-repeat:repeat; 
+		
+}
+#banner{
+	
+position:absolute;
+left:40%;
+
+	
+	
+}
+#aaa{
+	padding:10px,10px,15px,13px;
+	margin:10px,10px,15px,13px;
+	background-image:url("../../images/7292448438513.jpg");
+}
